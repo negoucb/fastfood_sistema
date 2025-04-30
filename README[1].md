@@ -1,0 +1,1 @@
+# FastFood System\n\nSistema de fast food com API Flask, SQLite e interface CLI.
